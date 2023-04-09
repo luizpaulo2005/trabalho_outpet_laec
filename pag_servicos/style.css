@@ -106,19 +106,19 @@ main .saiba_mais {
 }
 
 main .saiba_mais div {
-    display: inline-block;
-    background: #4f235c;
-    border-radius: 20px;
-    margin: 8px;
-    width: 209px;
-    height: 184px;
-    text-align: center;
-    padding-top: 75px;
+  display: inline-block;
+  background: #4f235c;
+  border-radius: 20px;
+  margin: 8px;
+  width: 209px;
+  height: 184px;
+  text-align: center;
+  padding-top: 75px;
 }
 
 main .saiba_mais div p {
   font-weight: bold;
-  color: #d3d800
+  color: #d3d800;
 }
 
 main .saiba_mais div a {
@@ -144,7 +144,7 @@ main .saiba_mais1 div {
 
 main .saiba_mais1 div p {
   font-weight: bold;
-  color: #d3d800
+  color: #d3d800;
 }
 
 main .saiba_mais1 div a {
@@ -195,12 +195,14 @@ footer .cadastro {
   margin: 400px 20px 70px;
 }
 
-footer .cadastro h1, .cadastro p {
+footer .cadastro h1,
+.cadastro p {
   display: inline-block;
   color: #d3d800;
 }
 
-footer .cadastro input, div input {
+footer .cadastro input,
+div input {
   background: #fff;
   border-radius: 30px;
   width: 330px;
@@ -257,9 +259,9 @@ footer .listas div {
   text-align: center;
 }
 
-footer .listas  div h3{
+footer .listas div h3 {
   margin-left: 30px;
-  }
+}
 
 footer .listas .lista1 {
   text-align: center;
