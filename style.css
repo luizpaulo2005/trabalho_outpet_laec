@@ -24,7 +24,6 @@ header .clube {
   position: absolute;
   left: 260px;
   top: 30px;
-  font-weight: bold;
 }
 
 header .search {
@@ -86,6 +85,59 @@ header .log_btn {
   right: 275px;
   top: 35px;
   font-weight: bold;
+}
+
+main {
+  position: relative;
+}
+
+main .banner {
+  width: 100%;
+  height: 270px;
+}
+
+main .promos {
+  margin-top: 20px;
+}
+
+main .promos li div h3 {
+  color: red;
+}
+
+main .promos li {
+  display: inline-block;
+  list-style: none;
+  margin-left: 95px;
+}
+
+main .promos li img {
+  margin-right: 15px;
+  float: left;
+  width: 40px;
+  height: 40px;
+}
+
+main .promos li div {
+  display: inline;
+  float: right;
+}
+
+main .categorias {
+  position: relative;
+  margin-top: 70px;
+  margin-left: 30px;
+  text-align: center;
+}
+
+main .categorias li {
+  display: inline-block;
+  list-style: none;
+  margin-left: 40px;
+}
+
+main .categorias li img {
+  width: 185.78px;
+  height: 111.61px;
 }
 
 /* Footer */
