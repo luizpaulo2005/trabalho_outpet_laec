@@ -88,6 +88,67 @@ header .log_btn {
   font-weight: bold;
 }
 
+main img {
+  margin-top: 44px;
+  width: 100%;
+}
+
+main .head_1 {
+  position: relative;	
+  width: 100%;
+  margin-top: 20px;
+}
+
+main .head_1 h2 {
+  text-align: center;
+  color: #4f235c;
+}
+
+main .head_1 p, .head_1 div {
+  display: inline-block;
+  position: absolute;
+}
+
+main .head_1 div{
+  margin-top: 45px;
+  right: 150px;
+}
+
+main .head_1 select {
+  width: 196.8px;
+  height: 51px;
+  font-size: 15px;
+  padding: 16px 8px;
+  text-align: center;
+  outline: none;
+  border-radius: 20px;
+}
+
+main .head_1 p {
+  margin-top: 60px;
+  right: 800px;
+}
+
+main .produtos {
+  position: relative;
+  margin-left: 400px;
+  margin-top: 150px;
+}
+
+main .produtos .produto img {
+  width: 100%;
+}
+
+main .produtos .produto {
+  padding: 10px;
+  display: inline-block;
+  margin-left: 30px;
+  max-width: 235.75px;
+  max-height: 422.4px;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
 /* Footer */
 
 footer {
