@@ -140,6 +140,229 @@ main .categorias li img {
   height: 111.61px;
 }
 
+main .categorias ul {
+  margin-top: 20px;
+}
+
+main .bravecto {
+  margin-top: 100px;
+  width: 100%;
+}
+
+main .bravecto h2 {
+  text-align: center;
+}
+
+main .bravecto ul {
+  margin: 10px 0 0 0;
+}
+
+main .bravecto li {
+  display: inline-block;
+  width: 276px;
+  height: 396px;
+  border: 1px solid black;
+  margin-left: 10px;
+  border-radius: 10px;
+}
+
+main .bravecto li img {
+  width: 220px;
+  height: 220px;
+}
+
+main .bravecto li center {
+  margin-top: 20px;
+}
+
+main .bravecto ul li .preco_bravecto {
+  margin-top: 50px;
+  color: #4f235c;
+  font-weight: 900;
+  font-size: 20px;
+}
+
+main .bravecto ul li .preco_bravecto s {
+  font-size: 15px;
+  color: grey;
+}
+
+main .pets {
+  margin-top: 70px;
+}
+
+main .pets ul {
+  margin-left: 50px;
+  width: 100%;
+}
+
+main .pets ul li {
+  display: inline-block;
+  width: 328px;
+  height: 158px + 38px;
+  border-radius: 10px;
+  margin-left: 10px;
+}
+
+main .pets img {
+  width: 100%;
+}
+
+main .pets li p {
+  height: 38px;
+  background: #e0e0e0;
+  text-align: center;
+  font-weight: bold;
+  margin-top: 10px;
+  font-size: 28px;
+}
+
+main .pets p:hover {
+  background: #d3d800;
+  color: #4f235c;
+}
+
+main .torcida {
+  margin-top: 100px;
+  width: 100%;
+}
+
+main .torcida h2 {
+  text-align: center;
+}
+
+main .torcida ul {
+  margin: 10px 0 0 0;
+}
+
+main .torcida li {
+  padding-bottom: 10px;
+  display: inline-block;
+  width: 276px;
+  max-height: 396px;
+  border: 1px solid black;
+  margin-left: 10px;
+  border-radius: 10px;
+}
+
+main .torcida li img {
+  width: 220px;
+  height: 220px;
+}
+
+main .torcida li center {
+  margin-top: 20px;
+}
+
+main .torcida ul li .preco_torcida {
+  margin-top: 50px;
+  color: #4f235c;
+  font-weight: 900;
+  font-size: 20px;
+}
+
+main .torcida ul li .preco_torcida s {
+  font-size: 15px;
+  color: grey;
+}
+
+main .marcas {
+  margin-top: 100px;
+  width: 100%;
+}
+
+main .marcas h2 {
+  text-align: center;
+}
+
+main .marcas ul {
+  margin: 10px 0 0 175px;
+}
+
+main .marcas li {
+  display: inline-block;
+}
+
+main .marcas img {
+  width: 135px;
+  height: 84.1px;
+  border-radius: 40px 40px 40px 40px;
+}
+
+main .marcas center {
+  padding: 10px 20px;
+  border-radius: 15px;
+}
+
+main .marcas img:hover {
+  border: 5px solid #d3d800
+}
+
+main .marcas center:hover {
+  background: #d3d800;
+  
+}
+
+main .favs {
+  margin-top: 100px;
+  width: 100%;
+}
+
+main .favs h2 {
+  text-align: center;
+}
+
+main .favs ul {
+  margin: 10px 0 0 0;
+}
+
+main .favs li {
+  padding-bottom: 10px;
+  display: inline-block;
+  width: 276px;
+  max-height: 396px;
+  border: 1px solid black;
+  margin-left: 10px;
+  border-radius: 10px;
+}
+
+main .favs li img {
+  width: 220px;
+  height: 220px;
+}
+
+main .favs li center {
+  margin-top: 20px;
+}
+
+main .favs ul li .preco_favs {
+  margin-top: 50px;
+  color: #4f235c;
+  font-weight: 900;
+  font-size: 20px;
+}
+
+main .favs ul li .preco_favs s {
+  font-size: 15px;
+  color: grey;
+}
+
+main .sobre {
+  margin-top: 150px;
+  width: 876px;
+  text-align: center;
+}
+
+main .sobre u {
+  font-size: 20px;
+  margin-bottom: 50px;
+  text-decoration-color: #00b1eb;
+}
+
+main .sobre p {
+  margin-bottom: 10px;
+}
+
 /* Footer */
 
 footer {
